@@ -1,0 +1,16 @@
+﻿book_id,title,author,genre,year,copies,available,category,rating
+1,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,5,3,Classic,4.5
+2,To Kill a Mockingbird,Harper Lee,Fiction,1960,4,2,Classic,4.8
+3,1984,George Orwell,Science Fiction,1949,6,4,Dystopian,4.7
+4,Pride and Prejudice,Jane Austen,Romance,1813,3,1,Classic,4.6
+5,The Catcher in the Rye,J.D. Salinger,Fiction,1951,4,2,Classic,4.2
+6,The Hobbit,J.R.R. Tolkien,Fantasy,1937,7,5,Fantasy,4.9
+7,Fahrenheit 451,Ray Bradbury,Science Fiction,1953,3,1,Dystopian,4.4
+8,Jane Eyre,Charlotte Bronte,Romance,1847,4,2,Classic,4.3
+9,The Alchemist,Paulo Coelho,Fiction,1988,5,4,Philosophical,4.5
+10,The Da Vinci Code,Dan Brown,Mystery,2003,6,3,Thriller,4.1
+11,The Hunger Games,Suzanne Collins,Science Fiction,2008,4,1,Dystopian,4.6
+12,The Kite Runner,Khaled Hosseini,Fiction,2003,5,3,Historical,4.7
+13,The Book Thief,Markus Zusak,Historical Fiction,2005,4,2,Historical,4.8
+14,A Game of Thrones,George R.R. Martin,Fantasy,1996,6,4,Fantasy,4.5
+15,The Shining,Stephen King,Horror,1977,3,1,Horror,4.3
